@@ -1,4 +1,4 @@
-# Structured Query Language (SQL)
+# SQL
 
 ## Data Definition Language (DDL)
 
