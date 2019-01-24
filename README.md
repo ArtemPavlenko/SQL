@@ -2,6 +2,9 @@
 
 # INDEX
 
+Data Definition Language
+
+
 ## Data Definition Language (DDL)
 
 
