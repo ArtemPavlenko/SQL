@@ -4,6 +4,7 @@
 
 Data Definition Language
 
+Data Manipulation Language
 
 ## Data Definition Language (DDL)
 
