@@ -8,6 +8,9 @@ Data Manipulation Language
 
 Data Control Language
 
+
+
+
 ## Data Definition Language (DDL)
 
 
@@ -15,5 +18,6 @@ Data Control Language
 
 
 ## Data Control Language (DCL)
+
 
 ## Transaction Control Language (TCL)
