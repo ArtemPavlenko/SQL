@@ -1,1 +1,3 @@
 # Structured Query Language
+
+## DDL
