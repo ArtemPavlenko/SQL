@@ -2,6 +2,6 @@
 
 ## DDL
 
-## DML
+## Data Definition Language (DML)
 
 ## DCL
