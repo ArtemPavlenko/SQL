@@ -1,7 +1,7 @@
 # Structured Query Language
 
-## DDL
+## Data Definition Language (DDL)
 
-## Data Definition Language (DML)
+## Data Manipulation Language (DML)
 
 ## DCL
