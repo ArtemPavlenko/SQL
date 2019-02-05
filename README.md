@@ -3,5 +3,3 @@
 ## Data Definition Language (DDL)
 
 ## Data Manipulation Language (DML)
-
-## DCL
