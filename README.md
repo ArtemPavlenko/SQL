@@ -1,7 +1,7 @@
 # Structured Query Language
 
 
-## Data Definition Language (DDL)
+## Data Definition Language
 
 
 
