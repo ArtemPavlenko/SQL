@@ -15,5 +15,3 @@
 
 
 
-
-## Transaction Control Language (TCL)
