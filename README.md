@@ -11,7 +11,7 @@
 
 
 
-## Data Control Language (DCL)
+## Data Control Language
 
 
 
