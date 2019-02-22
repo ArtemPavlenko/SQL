@@ -1,6 +1,6 @@
 # Structured Query Language (SQL)
 
-## DDL
+## Data Definition Language (DDL)
 
 
 
